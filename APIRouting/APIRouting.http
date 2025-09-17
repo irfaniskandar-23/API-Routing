@@ -1,0 +1,6 @@
+@APIRouting_HostAddress = http://localhost:5095
+
+GET {{APIRouting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
